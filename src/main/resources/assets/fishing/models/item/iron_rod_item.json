@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fishing:item/iron_rod_item0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "fishing:cast": 1.0
+      },
+      "model": "fishing:item/iron_rod_item1"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "sword_fish_sound": {
+    "subtitle": "sword_fish_sound",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fishing:sword_fish_sound",
+        "stream": true
+      }
+    ]
+  }
+}
