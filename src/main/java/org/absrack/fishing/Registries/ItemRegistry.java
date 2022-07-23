@@ -10,6 +10,9 @@ import org.absrack.fishing.Items.terrariafish.ReaverSharkItem;
 import org.absrack.fishing.Items.terrariafish.SwordFishItem;
 import org.absrack.fishing.Utils.Utils;
 
+/**
+ * @author Komputer
+ */
 public class ItemRegistry {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Utils.MOD_ID);
 

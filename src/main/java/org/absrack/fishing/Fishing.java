@@ -6,6 +6,9 @@ import org.absrack.fishing.Registries.EventRegistries.SoundEventRegistry;
 import org.absrack.fishing.Registries.ItemRegistry;
 import org.absrack.fishing.Utils.Utils;
 
+/**
+ * @author Komputer
+ */
 @Mod(Utils.MOD_ID)
 public class Fishing {
     public Fishing(){
