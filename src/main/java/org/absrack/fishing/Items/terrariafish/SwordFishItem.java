@@ -12,7 +12,9 @@ import org.absrack.fishing.Registries.EventRegistries.SoundEventRegistry;
 import org.absrack.fishing.ItemGroup.ModGroup;
 import org.absrack.fishing.Utils.ModItemTier;
 
-
+/**
+ * @author Komputer
+ */
 public class SwordFishItem extends SwordItem implements IForgeItem {
     private static final Food food = (new Food.Builder())
             .nutrition(2)

@@ -4,6 +4,9 @@ import net.minecraft.item.*;
 import org.absrack.fishing.ItemGroup.ModGroup;
 import org.absrack.fishing.Utils.ModItemTier;
 
+/**
+ * @author Komputer
+ */
 public class ReaverSharkItem extends PickaxeItem {
     private static final Food food = (new Food.Builder())
             .meat()

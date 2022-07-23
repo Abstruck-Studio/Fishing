@@ -13,6 +13,9 @@ import net.minecraft.util.SoundEvents;
 import net.minecraft.world.World;
 import org.absrack.fishing.ItemGroup.ModGroup;
 
+/**
+ * @author Komputer
+ */
 public class IronRodItem extends FishingRodItem {
     public IronRodItem() {
         super(new Properties().tab(ModGroup.rodGroup));

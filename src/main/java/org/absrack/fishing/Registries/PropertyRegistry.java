@@ -12,6 +12,9 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import org.absrack.fishing.Items.rods.IronRodItem;
 import org.absrack.fishing.Utils.Utils;
 
+/**
+ * @author Komputer
+ */
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD,value = Dist.CLIENT)
 public class PropertyRegistry {
     @SubscribeEvent

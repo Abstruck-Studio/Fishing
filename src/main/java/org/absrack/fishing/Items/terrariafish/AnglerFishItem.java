@@ -7,6 +7,9 @@ import net.minecraft.potion.EffectInstance;
 import net.minecraft.potion.Effects;
 import org.absrack.fishing.ItemGroup.ModGroup;
 
+/**
+ * @author Komputer
+ */
 public class AnglerFishItem extends Item {
     private static final Food food =(new Food.Builder())
             .saturationMod(4)

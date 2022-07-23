@@ -4,6 +4,9 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import org.absrack.fishing.Registries.ItemRegistry;
 
+/**
+ * @author Komputer
+ */
 public class FishGroup extends ItemGroup {
     public FishGroup() {
         super("fish_group");

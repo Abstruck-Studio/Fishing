@@ -4,6 +4,9 @@ import net.minecraft.item.ItemGroup;
 import org.absrack.fishing.ItemGroup.FishGroup;
 import org.absrack.fishing.ItemGroup.RodGroup;
 
+/**
+ * @author Komputer
+ */
 public class ModGroup {
 
     public static final ItemGroup fishGroup = new FishGroup();

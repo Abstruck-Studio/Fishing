@@ -7,6 +7,9 @@ import net.minecraft.util.LazyValue;
 
 import java.util.function.Supplier;
 
+/**
+ * @author Komputer
+ */
 public enum ModItemTier implements IItemTier {
 
     FISH(3, 1560, 8.0F, 3.0F, 10, () -> {
